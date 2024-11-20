@@ -59,7 +59,7 @@ Abaixo estão os principais endpoints disponíveis:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/your-repo.git
+   git clone https://github.com/DaviPereiraL/User-Department-Management-System.git
    cd your-repo
    ```
 2. Compile e execute a aplicação:
